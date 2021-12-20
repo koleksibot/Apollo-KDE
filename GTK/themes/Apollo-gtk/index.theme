@@ -1,0 +1,5 @@
+[X-GNOME-Metatheme]
+Name=Apollo-gtk
+Type=X-GNOME-Metatheme
+Comment=GTK version of the Apollo KDE Plasma theme.
+Encoding=UTF-8
